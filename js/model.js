@@ -23,7 +23,7 @@ const Model = {
     {
       title: "Persona5 Style portfolio",
       tag: "UI/UX & Frontend", color: "#ffffff",
-      url: "https://github.com/Dokja-pvt/Portfolio", cta: "View on GitHub →",
+      url: "https://github.com/Dokja-pvt/Persona5_Style_Portfolio", cta: "View on GitHub →",
       img: "assets/projects/portfolio.png",
       desc: "An interactive, video game-inspired portfolio built from scratch with HTML, CSS, and Vanilla JavaScript. Features hardware-accelerated animations, custom transitions, and a fully responsive grid system.",
     },
