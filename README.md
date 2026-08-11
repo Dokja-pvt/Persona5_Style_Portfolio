@@ -33,6 +33,7 @@ It combines my interests in **Web Development & UI/UX Design** with my obsession
 │   ├── view.js         DOM – rendering, ransom lettering, wipe, cursor, sound
 │   └── controller.js   EVENTS – keyboard/mouse input, navigation logic
 ├── assets/
+    ├── favicon.png
 │   ├── sfx/
 │   │   ├── select.mp3  Menu sound (plays on select/confirm)
 │   │   └── bgm.mp3     Background music ("Wake Up, Get Up, Get Out There" by Lyn Inaizumi)
